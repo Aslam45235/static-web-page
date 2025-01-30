@@ -1035,7 +1035,7 @@
 
 
 
-    @media screen and (max-width: 320px) {
+    @media screen and (max-width: 375px) {
         .login button {
             font-size: 11px;
             width: 84px;
