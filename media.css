@@ -1032,3 +1032,116 @@
     }
 
     }
+
+
+
+    @media screen and (max-width: 320px) {
+        .login button {
+            font-size: 11px;
+            width: 84px;
+          }
+
+          .header img {
+            width: 114px;
+            height: 42px;
+            margin-left: 8px;
+          }
+
+          .download-btn {
+            padding: 0.2rem 1.5rem;
+            font-size: 11px;
+          }
+          .btn {
+            gap: 7px;
+          }
+
+          .main-sec-4 {
+            margin-top: 160px;
+          }
+
+          .sec-4-dropdown p {
+            font-size: 15px;
+          }
+          .sec-4-dropdown1 p {
+            font-size: 15px;
+          }
+          .sec-5-main {
+            margin-top: 50px;
+          }
+          .sec-5-right {
+            padding: 0 20px 0 20px;
+            margin-top: 40px;
+          }
+          .sec-5-heading {
+            font-size: 30px;
+          }
+          .sec-5-p {
+            font-size: 16px;
+          }
+          .cls-sec5-2 {
+            font-size: 38px;
+          }
+          .cls-lft-sec-4 {
+            margin-top: 55px;
+            padding-left: 10px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+          }
+          .vl {
+           display: none;
+          }
+
+          .cls-lft-btn {
+            width: 119px;
+          }
+          .lft-btn1 {
+            margin-top: 36px;
+            margin-left: 20px;
+            display: flex;
+            align-items: center;
+          }
+          .cls-right-sec1, .cls-right-sec2, .cls-right-sec3 {
+            width: 286px;
+            height: 170px;
+            margin-left: 0;
+          }
+          .sec-8-img, .sec-8-img1, .sec-8-img2 {
+            margin-left: 13px;
+            margin-right: 16px;
+          }
+          .sec-8-content > p {
+            font-size: 10px;
+            font-weight: normal;
+            margin-bottom: 10px;
+          }
+          .sec-8-content > span {
+            font-size: 10px;
+          }
+          .sec-8-content1 > p {
+            font-size: 10px;
+            font-weight: normal;
+            margin-bottom: 10px;
+          }
+          .sec-8-content1 > span {
+            font-size: 10px;
+          }
+          .sec-8-content2 > p {
+            font-size: 10px;
+            font-weight: normal;
+            margin-bottom: 10px;
+          }
+          .sec-8-content2 > span {
+            font-size: 10px;
+          }
+          .cls-logo {
+            margin-left: 30px;
+            width: 130px;
+            height: 42px;
+          }
+          .sec-last {
+            padding: 20px 26px;
+          }
+        
+    }
